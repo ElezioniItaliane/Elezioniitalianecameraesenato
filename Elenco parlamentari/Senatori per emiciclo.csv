@@ -1,0 +1,321 @@
+Row;Angle;nomeGruppo;cognome;color
+10;0;Partito Democratico;Giacobbe;#ff0034
+11;0;Partito Democratico;Verducci;#ff0033
+12;0;Partito Democratico;Zanda;#ff0032
+13;0;Partito Democratico;Pittella;#ff0031
+14;0;Partito Democratico;D'Arienzo;#ff0030
+15;0;Partito Democratico;Messina;#ff0029
+16;0;Partito Democratico;Cirinna';#ff0028
+17;0;Partito Democratico;Astorre;#ff0027
+18;0;Partito Democratico;Parrini;#ff0026
+19;0;Partito Democratico;Ferrazzi;#ff0025
+20;0;Partito Democratico;Mirabelli;#ff0024
+21;0;Partito Democratico;D'Alfonso;#ff0023
+22;0;Partito Democratico;Collina;#ff0022
+23;0;Partito Democratico;Pinotti;#ff0021
+24;0;Partito Democratico;Misiani;#ff0020
+10;1;Partito Democratico;Cerno;#ff0019
+11;1;Partito Democratico;Vattuone;#ff0018
+12;1;Partito Democratico;Taricco;#ff0017
+13;1;Partito Democratico;Alfieri;#ff0016
+14;1;Partito Democratico;Valente;#ff0015
+15;1;Partito Democratico;Ferrari;#ff0014
+16;1;Partito Democratico;Laus;#ff0013
+17;1;Partito Democratico;Fedeli;#ff0012
+18;1;Partito Democratico;Marcucci;#ff0011
+19;1;Partito Democratico;Stefano;#ff0010
+20;1;Partito Democratico;Malpezzi;#ff0009
+21;1;Partito Democratico;Iori;#ff0008
+22;1;Partito Democratico;Bini;#ff0007
+23;1;Partito Democratico;Biti;#ff0006
+24;1;Partito Democratico;Nannicini;#ff0005
+10;2;Partito Democratico;Margiotta;#ff0004
+11;2;Partito Democratico;Manca;#ff0003
+12;2;Partito Democratico;Rossomando;#ff0002
+13;2;Partito Democratico;Rampi;#ff0001
+14;2;Partito Democratico;Boldrini;#ff0000
+15;2;Italia Viva - P.S.I.;Garavini;#ffc8ec
+16;2;Italia Viva - P.S.I.;Sbrollini;#ffc8ec
+17;2;Italia Viva - P.S.I.;Bonifazi;#ffc8ec
+18;2;Italia Viva - P.S.I.;Sudano;#ffc8ec
+19;2;Italia Viva - P.S.I.;Renzi;#ffc8ec
+20;2;Italia Viva - P.S.I.;Marino;#ffc8ec
+21;2;Italia Viva - P.S.I.;Conzatti;#ffc8ec
+22;2;Italia Viva - P.S.I.;Ginetti;#ffc8ec
+23;2;Italia Viva - P.S.I.;Carbone;#ffc8ec
+24;2;Italia Viva - P.S.I.;Comincini;#ffc8ec
+10;3;Italia Viva - P.S.I.;Magorno;#ffc8ec
+11;3;Italia Viva - P.S.I.;Grimani;#ffc8ec
+12;3;Italia Viva - P.S.I.;Nencini;#ffc8ec
+13;3;Italia Viva - P.S.I.;Bellanova;#ffc8ec
+14;3;Italia Viva - P.S.I.;Parente;#ffc8ec
+15;3;Italia Viva - P.S.I.;Cucca;#ffc8ec
+16;3;Italia Viva - P.S.I.;Faraone;#ffc8ec
+17;3;Italia Viva - P.S.I.;Vono;#ffc8ec
+18;3;MoVimento 5 Stelle;Mantovani;#fad49
+19;3;MoVimento 5 Stelle;Leone;#fad50
+20;3;MoVimento 5 Stelle;Quarto;#fad51
+21;3;MoVimento 5 Stelle;Pisani;#fad52
+22;3;MoVimento 5 Stelle;La Mura;#fad53
+23;3;MoVimento 5 Stelle;Bottici;#fad54
+24;3;MoVimento 5 Stelle;Angrisani;#fad55
+10;4;MoVimento 5 Stelle;Girotto;#fad56
+11;4;MoVimento 5 Stelle;Guidolin;#fad57
+12;4;MoVimento 5 Stelle;Dell'Olio;#fad58
+13;4;MoVimento 5 Stelle;Lanzi;#fad59
+14;4;MoVimento 5 Stelle;Lorefice;#fad60
+15;4;MoVimento 5 Stelle;Marinello;#fad61
+16;4;MoVimento 5 Stelle;De Lucia;#fad62
+17;4;MoVimento 5 Stelle;Granato;#fad63
+18;4;MoVimento 5 Stelle;Vanin;#fad64
+19;4;MoVimento 5 Stelle;Morra;#fad65
+20;4;MoVimento 5 Stelle;Perilli;#fad66
+21;4;MoVimento 5 Stelle;Santillo;#fad67
+22;4;MoVimento 5 Stelle;Fenu;#fad68
+23;4;MoVimento 5 Stelle;Di Micco;#fad69
+24;4;MoVimento 5 Stelle;Donno;#fad70
+10;5;MoVimento 5 Stelle;Puglia;#fad71
+11;5;MoVimento 5 Stelle;Lomuti;#fad72
+12;5;MoVimento 5 Stelle;Petrocelli;#fad73
+13;5;MoVimento 5 Stelle;Ricciardi;#fad74
+14;5;MoVimento 5 Stelle;Fede;#fad75
+15;5;MoVimento 5 Stelle;Nocerino;#fad76
+16;5;MoVimento 5 Stelle;Matrisciano;#fad77
+17;5;MoVimento 5 Stelle;Garruti;#fad78
+18;5;MoVimento 5 Stelle;Pellegrini;#fad79
+19;5;MoVimento 5 Stelle;Turco;#fad80
+20;5;MoVimento 5 Stelle;Di Nicola;#fad81
+21;5;MoVimento 5 Stelle;Campagna;#fad82
+22;5;MoVimento 5 Stelle;Santangelo;#fad83
+23;5;MoVimento 5 Stelle;Toninelli;#fad84
+24;5;MoVimento 5 Stelle;Castaldi;#fad85
+10;6;MoVimento 5 Stelle;Botto;#fad86
+11;6;MoVimento 5 Stelle;Gaudiano;#fad87
+12;6;MoVimento 5 Stelle;Accoto;#fad88
+13;6;MoVimento 5 Stelle;Naturale;#fad89
+14;6;MoVimento 5 Stelle;Cioffi;#fad90
+15;6;MoVimento 5 Stelle;Crimi;#fad91
+16;6;MoVimento 5 Stelle;Corrado;#fad92
+17;6;MoVimento 5 Stelle;Taverna;#fad93
+18;6;MoVimento 5 Stelle;Lupo;#fad94
+19;6;MoVimento 5 Stelle;Licheri;#fad95
+20;6;MoVimento 5 Stelle;Mininno;#fad96
+21;6;MoVimento 5 Stelle;Auddino;#fad97
+22;6;MoVimento 5 Stelle;Maiorino;#fad98
+23;6;MoVimento 5 Stelle;Russo;#fad99
+24;6;MoVimento 5 Stelle;Evangelista;#fad100
+10;7;MoVimento 5 Stelle;Castiello;#fad101
+11;7;MoVimento 5 Stelle;Trentacoste;#fad102
+12;7;MoVimento 5 Stelle;Patuanelli;#fad103
+13;7;MoVimento 5 Stelle;Anastasi;#fad104
+14;7;MoVimento 5 Stelle;Mollame;#fad105
+15;7;MoVimento 5 Stelle;Endrizzi;#fad106
+16;7;MoVimento 5 Stelle;Corbetta;#fad107
+17;7;MoVimento 5 Stelle;D'Angelo;#fad108
+18;7;MoVimento 5 Stelle;Dessi';#fad109
+19;7;MoVimento 5 Stelle;Catalfo;#fad110
+20;7;MoVimento 5 Stelle;Montevecchi;#fad111
+21;7;MoVimento 5 Stelle;Castellone;#fad112
+22;7;MoVimento 5 Stelle;Crucioli;#fad113
+23;7;MoVimento 5 Stelle;Lezzi;#fad114
+24;7;MoVimento 5 Stelle;Pavanelli;#fad115
+10;8;MoVimento 5 Stelle;Di Piazza;#fad116
+11;8;MoVimento 5 Stelle;Croatti;#fad117
+12;8;MoVimento 5 Stelle;Vaccaro;#fad118
+13;8;MoVimento 5 Stelle;Moronese;#fad119
+14;8;MoVimento 5 Stelle;Romano;#fad120
+15;8;MoVimento 5 Stelle;Piarulli;#fad121
+16;8;MoVimento 5 Stelle;Abate;#fad122
+17;8;MoVimento 5 Stelle;Ortis;#fad123
+18;8;MoVimento 5 Stelle;L'Abbate;#fad124
+19;8;MoVimento 5 Stelle;Sileri;#fad125
+20;8;MoVimento 5 Stelle;Agostinelli;#fad126
+21;8;MoVimento 5 Stelle;Romagnoli;#fad127
+22;8;MoVimento 5 Stelle;Giannuzzi;#fad128
+23;8;MoVimento 5 Stelle;Coltorti;#fad129
+24;8;MoVimento 5 Stelle;Mantero;#fad130
+10;9;MoVimento 5 Stelle;Pirro;#fad131
+11;9;MoVimento 5 Stelle;Presutto;#fad132
+12;9;MoVimento 5 Stelle;Floridia;#fad133
+13;9;MoVimento 5 Stelle;Gallicchio;#fad134
+14;9;MoVimento 5 Stelle;Ferrara;#fad135
+15;9;MoVimento 5 Stelle;Lannutti;#fad136
+16;9;MoVimento 5 Stelle;Pesco;#fad137
+17;9;MoVimento 5 Stelle;Mautone;#fad138
+18;9;MoVimento 5 Stelle;Airola;#fad139
+19;9;MoVimento 5 Stelle;Di Girolamo;#fad140
+20;9;Forza Italia Berlusconi Presidente-UDC;Caliendo;#58fcf43
+21;9;Forza Italia Berlusconi Presidente-UDC;Paroli;#58fcf42
+22;9;Forza Italia Berlusconi Presidente-UDC;Ronzulli;#58fcf41
+23;9;Forza Italia Berlusconi Presidente-UDC;Dal Mas;#58fcf40
+24;9;Forza Italia Berlusconi Presidente-UDC;Biasotti;#58fcf39
+10;10;Forza Italia Berlusconi Presidente-UDC;Barachini;#58fcf38
+11;10;Forza Italia Berlusconi Presidente-UDC;Aimi;#58fcf37
+12;10;Forza Italia Berlusconi Presidente-UDC;Perosino;#58fcf36
+13;10;Forza Italia Berlusconi Presidente-UDC;Mallegni;#58fcf35
+14;10;Forza Italia Berlusconi Presidente-UDC;Vitali;#58fcf34
+15;10;Forza Italia Berlusconi Presidente-UDC;Pagano;#58fcf33
+16;10;Forza Italia Berlusconi Presidente-UDC;Serafini;#58fcf32
+17;10;Forza Italia Berlusconi Presidente-UDC;Pichetto Fratin;#58fcf31
+18;10;Forza Italia Berlusconi Presidente-UDC;Barboni;#58fcf30
+19;10;Forza Italia Berlusconi Presidente-UDC;Mangialavori;#58fcf29
+20;10;Forza Italia Berlusconi Presidente-UDC;Malan;#58fcf28
+21;10;Forza Italia Berlusconi Presidente-UDC;Damiani;#58fcf27
+22;10;Forza Italia Berlusconi Presidente-UDC;Fazzone;#58fcf26
+23;10;Forza Italia Berlusconi Presidente-UDC;Minuto;#58fcf25
+24;10;Forza Italia Berlusconi Presidente-UDC;Giammanco;#58fcf24
+10;11;Forza Italia Berlusconi Presidente-UDC;Rizzotti;#58fcf23
+11;11;Forza Italia Berlusconi Presidente-UDC;Saccone;#58fcf22
+12;11;Forza Italia Berlusconi Presidente-UDC;Alberti Casellati;#58fcf21
+13;11;Forza Italia Berlusconi Presidente-UDC;Alderisi;#58fcf20
+14;11;Forza Italia Berlusconi Presidente-UDC;Bernini;#58fcf19
+15;11;Forza Italia Berlusconi Presidente-UDC;Battistoni;#58fcf18
+16;11;Forza Italia Berlusconi Presidente-UDC;Ferro;#58fcf17
+17;11;Forza Italia Berlusconi Presidente-UDC;Modena;#58fcf16
+18;11;Forza Italia Berlusconi Presidente-UDC;Craxi;#58fcf15
+19;11;Forza Italia Berlusconi Presidente-UDC;Ghedini;#58fcf14
+20;11;Forza Italia Berlusconi Presidente-UDC;Gallone;#58fcf13
+21;11;Forza Italia Berlusconi Presidente-UDC;Papatheu;#58fcf12
+22;11;Forza Italia Berlusconi Presidente-UDC;Siclari;#58fcf11
+23;11;Forza Italia Berlusconi Presidente-UDC;Messina;#58fcf10
+24;11;Forza Italia Berlusconi Presidente-UDC;Moles;#58fcf9
+10;12;Forza Italia Berlusconi Presidente-UDC;De Poli;#58fcf8
+11;12;Forza Italia Berlusconi Presidente-UDC;Binetti;#58fcf7
+12;12;Forza Italia Berlusconi Presidente-UDC;Floris;#58fcf6
+13;12;Forza Italia Berlusconi Presidente-UDC;Gasparri;#58fcf5
+14;12;Forza Italia Berlusconi Presidente-UDC;Toffanin;#58fcf4
+15;12;Forza Italia Berlusconi Presidente-UDC;Masini;#58fcf3
+16;12;Forza Italia Berlusconi Presidente-UDC;Caligiuri;#58fcf2
+17;12;Forza Italia Berlusconi Presidente-UDC;De Siano;#58fcf1
+18;12;Forza Italia Berlusconi Presidente-UDC;Tiraboschi;#58fcf0
+19;12;Forza Italia Berlusconi Presidente-UDC;Giro;#58fcf1
+20;12;Forza Italia Berlusconi Presidente-UDC;Berardi;#58fcf2
+21;12;Forza Italia Berlusconi Presidente-UDC;Schifani;#58fcf3
+22;12;Forza Italia Berlusconi Presidente-UDC;Sciascia;#58fcf4
+23;12;Forza Italia Berlusconi Presidente-UDC;Cesaro;#58fcf5
+24;12;Forza Italia Berlusconi Presidente-UDC;Cangini;#58fcf6
+10;13;Forza Italia Berlusconi Presidente-UDC;Stabile;#58fcf7
+11;13;Forza Italia Berlusconi Presidente-UDC;Galliani;#58fcf8
+12;13;Fratelli d'Italia;Ciriani;#1617fa
+13;13;Fratelli d'Italia;La Russa;#1617fa
+14;13;Fratelli d'Italia;Iannone;#1617fa
+15;13;Fratelli d'Italia;Balboni;#1617fa
+16;13;Fratelli d'Italia;Garnero Santanche';#1617fa
+17;13;Fratelli d'Italia;Maffoni;#1617fa
+18;13;Fratelli d'Italia;Totaro;#1617fa
+19;13;Fratelli d'Italia;Rauti;#1617fa
+20;13;Fratelli d'Italia;Ruspandini;#1617fa
+21;13;Fratelli d'Italia;Urso;#1617fa
+22;13;Fratelli d'Italia;La Pietra;#1617fa
+23;13;Fratelli d'Italia;Calandrini;#1617fa
+24;13;Fratelli d'Italia;de Bertoldi;#1617fa
+10;14;Fratelli d'Italia;Fazzolari;#1617fa
+11;14;Fratelli d'Italia;De Carlo;#1617fa
+12;14;Fratelli d'Italia;Petrenga;#1617fa
+13;14;Fratelli d'Italia;Barbaro;#1617fa
+14;14;Fratelli d'Italia;Zaffini;#1617fa
+15;14;Fratelli d'Italia;Nastri;#1617fa
+16;14;Lega-Salvini Premier-Partito Sardo d'Azione;Fregolent;#03a71e
+17;14;Lega-Salvini Premier-Partito Sardo d'Azione;Centinaio;#03a71e
+18;14;Lega-Salvini Premier-Partito Sardo d'Azione;Bergesio;#03a71e
+19;14;Lega-Salvini Premier-Partito Sardo d'Azione;Bossi;#03a71e
+20;14;Lega-Salvini Premier-Partito Sardo d'Azione;Nisini;#03a71e
+21;14;Lega-Salvini Premier-Partito Sardo d'Azione;Ferrero;#03a71e
+22;14;Lega-Salvini Premier-Partito Sardo d'Azione;Pepe;#03a71e
+23;14;Lega-Salvini Premier-Partito Sardo d'Azione;Pittoni;#03a71e
+24;14;Lega-Salvini Premier-Partito Sardo d'Azione;Siri;#03a71e
+10;15;Lega-Salvini Premier-Partito Sardo d'Azione;Alessandrini;#03a71e
+11;15;Lega-Salvini Premier-Partito Sardo d'Azione;Pillon;#03a71e
+12;15;Lega-Salvini Premier-Partito Sardo d'Azione;Rufa;#03a71e
+13;15;Lega-Salvini Premier-Partito Sardo d'Azione;Cantu';#03a71e
+14;15;Lega-Salvini Premier-Partito Sardo d'Azione;Urraro;#03a71e
+15;15;Lega-Salvini Premier-Partito Sardo d'Azione;Pisani;#03a71e
+16;15;Lega-Salvini Premier-Partito Sardo d'Azione;Grassi;#03a71e
+17;15;Lega-Salvini Premier-Partito Sardo d'Azione;Iwobi;#03a71e
+18;15;Lega-Salvini Premier-Partito Sardo d'Azione;Borgonzoni;#03a71e
+19;15;Lega-Salvini Premier-Partito Sardo d'Azione;Bossi;#03a71e
+20;15;Lega-Salvini Premier-Partito Sardo d'Azione;Ripamonti;#03a71e
+21;15;Lega-Salvini Premier-Partito Sardo d'Azione;Sbrana;#03a71e
+22;15;Lega-Salvini Premier-Partito Sardo d'Azione;Stefani;#03a71e
+23;15;Lega-Salvini Premier-Partito Sardo d'Azione;Briziarelli;#03a71e
+24;15;Lega-Salvini Premier-Partito Sardo d'Azione;Tosato;#03a71e
+10;16;Lega-Salvini Premier-Partito Sardo d'Azione;Salvini;#03a71e
+11;16;Lega-Salvini Premier-Partito Sardo d'Azione;Augussori;#03a71e
+12;16;Lega-Salvini Premier-Partito Sardo d'Azione;Pergreffi;#03a71e
+13;16;Lega-Salvini Premier-Partito Sardo d'Azione;Pianasso;#03a71e
+14;16;Lega-Salvini Premier-Partito Sardo d'Azione;Pirovano;#03a71e
+15;16;Lega-Salvini Premier-Partito Sardo d'Azione;Pellegrini;#03a71e
+16;16;Lega-Salvini Premier-Partito Sardo d'Azione;Riccardi;#03a71e
+17;16;Lega-Salvini Premier-Partito Sardo d'Azione;Casolati;#03a71e
+18;16;Lega-Salvini Premier-Partito Sardo d'Azione;Zuliani;#03a71e
+19;16;Lega-Salvini Premier-Partito Sardo d'Azione;Montani;#03a71e
+20;16;Lega-Salvini Premier-Partito Sardo d'Azione;Pizzol;#03a71e
+21;16;Lega-Salvini Premier-Partito Sardo d'Azione;Bongiorno;#03a71e
+22;16;Lega-Salvini Premier-Partito Sardo d'Azione;Borghesi;#03a71e
+23;16;Lega-Salvini Premier-Partito Sardo d'Azione;Saviane;#03a71e
+24;16;Lega-Salvini Premier-Partito Sardo d'Azione;Faggi;#03a71e
+10;17;Lega-Salvini Premier-Partito Sardo d'Azione;Bagnai;#03a71e
+11;17;Lega-Salvini Premier-Partito Sardo d'Azione;Pazzaglini;#03a71e
+12;17;Lega-Salvini Premier-Partito Sardo d'Azione;Lucidi;#03a71e
+13;17;Lega-Salvini Premier-Partito Sardo d'Azione;Lunesu;#03a71e
+14;17;Lega-Salvini Premier-Partito Sardo d'Azione;Fusco;#03a71e
+15;17;Lega-Salvini Premier-Partito Sardo d'Azione;Saponara;#03a71e
+16;17;Lega-Salvini Premier-Partito Sardo d'Azione;Romeo;#03a71e
+17;17;Lega-Salvini Premier-Partito Sardo d'Azione;Marin;#03a71e
+18;17;Lega-Salvini Premier-Partito Sardo d'Azione;Doria;#03a71e
+19;17;Lega-Salvini Premier-Partito Sardo d'Azione;Corti;#03a71e
+20;17;Lega-Salvini Premier-Partito Sardo d'Azione;Bruzzone;#03a71e
+21;17;Lega-Salvini Premier-Partito Sardo d'Azione;De Vecchis;#03a71e
+22;17;Lega-Salvini Premier-Partito Sardo d'Azione;Testor;#03a71e
+23;17;Lega-Salvini Premier-Partito Sardo d'Azione;Candura;#03a71e
+24;17;Lega-Salvini Premier-Partito Sardo d'Azione;Marti;#03a71e
+10;18;Lega-Salvini Premier-Partito Sardo d'Azione;Ostellari;#03a71e
+11;18;Lega-Salvini Premier-Partito Sardo d'Azione;Vallardi;#03a71e
+12;18;Lega-Salvini Premier-Partito Sardo d'Azione;Rivolta;#03a71e
+13;18;Lega-Salvini Premier-Partito Sardo d'Azione;Candiani;#03a71e
+14;18;Lega-Salvini Premier-Partito Sardo d'Azione;Campari;#03a71e
+15;18;Lega-Salvini Premier-Partito Sardo d'Azione;Pucciarelli;#03a71e
+16;18;Lega-Salvini Premier-Partito Sardo d'Azione;Vescovi;#03a71e
+17;18;Lega-Salvini Premier-Partito Sardo d'Azione;Arrigoni;#03a71e
+18;18;Lega-Salvini Premier-Partito Sardo d'Azione;Calderoli;#03a71e
+19;18;Europeisti-MAIE-Centro Democratico;Causin;#ebc6e0
+20;18;Europeisti-MAIE-Centro Democratico;Fantetti;#ebc6e1
+21;18;Europeisti-MAIE-Centro Democratico;Buccarella;#ebc6e2
+22;18;Europeisti-MAIE-Centro Democratico;De Falco;#ebc6e3
+23;18;Europeisti-MAIE-Centro Democratico;Merlo;#ebc6e4
+24;18;Europeisti-MAIE-Centro Democratico;Cario;#ebc6e5
+10;19;Europeisti-MAIE-Centro Democratico;Rossi;#ebc6e6
+11;19;Europeisti-MAIE-Centro Democratico;Rojc;#ebc6e7
+12;19;Europeisti-MAIE-Centro Democratico;Marilotti;#ebc6e8
+13;19;Europeisti-MAIE-Centro Democratico;De Bonis;#ebc6e9
+14;19;Misto;Paragone;#737874
+15;19;Misto;Bonino;#737875
+16;19;Misto;Nugnes;#737876
+17;19;Misto;Romani;#737877
+18;19;Misto;Di Marzio;#737878
+19;19;Misto;Richetti;#737879
+20;19;Misto;Laforgia;#737880
+21;19;Misto;Martelli;#737881
+22;19;Misto;Fattori;#737882
+23;19;Misto;Quagliariello;#737883
+24;19;Misto;Monti;#737884
+10;20;Misto;Ruotolo;#737885
+11;20;Misto;Lonardo;#737886
+12;20;Misto;Ciampolillo;#737887
+13;20;Misto;Drago;#737888
+14;20;Misto;Berutti;#737889
+15;20;Misto;Segre;#737890
+16;20;Misto;Grasso;#737891
+17;20;Misto;De Petris;#737892
+18;20;Misto;Errani;#737893
+19;20;Misto;Pacifico;#737894
+20;20;Misto;Giarrusso;#737895
+21;20;Per le Autonomie (SVP-PATT, UV);Steger;#737874
+22;20;Per le Autonomie (SVP-PATT, UV);Laniece;#737875
+23;20;Per le Autonomie (SVP-PATT, UV);Unterberger;#737876
+24;20;Per le Autonomie (SVP-PATT, UV);Cattaneo;#737877
+10;21;Per le Autonomie (SVP-PATT, UV);Laniece;#737878
+11;21;Per le Autonomie (SVP-PATT, UV);Durnwalder;#737879
+12;21;Per le Autonomie (SVP-PATT, UV);Napolitano;#737880
+13;21;Per le Autonomie (SVP-PATT, UV);Bressa;#737881
+14;21;Per le Autonomie (SVP-PATT, UV);Casini;#737882
