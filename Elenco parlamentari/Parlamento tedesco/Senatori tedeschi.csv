@@ -1,70 +1,70 @@
 ﻿Row;Angle;Name;Party;Area;Color
 10;1;Winfried Kretschmann;ALLIANCE 90 / THE GREENS;Baden-Wuerttemberg;#66ff00
-11;1;Thomas Strobl;CDU;Baden-Wuerttemberg;#3a4139
-12;1;Edith Sitzmann;ALLIANCE 90 / THE GREENS;Baden-Wuerttemberg;#66ff00
-10;2;Dr. Nicole Hoffmeister-Kraut;CDU;Baden-Wuerttemberg;#3a4139
-11;2;Guido Wolf;CDU;Baden-Wuerttemberg;#3a4139
-12;2;Winfried Hermann;ALLIANCE 90 / THE GREENS;Baden-Wuerttemberg;#66ff00
-10;3;Dr. Markus Söder;CSU;Free State of Bavaria;#3a4139
-11;3;Hubert Aiwanger;FREE VOTERS;Free State of Bavaria;#9c9c9c
-12;3;Dr. Florian Herrmann;CSU;Free State of Bavaria;#3a4139
-10;4;Joachim Herrmann;CSU;Free State of Bavaria;#3a4139
-11;4;Thorsten Glauber;FREE VOTERS;Free State of Bavaria;#9c9c9c
-12;4;Georg Eisenreich;CSU;Free State of Bavaria;#3a4139
-10;5;Michael Müller;SPD;Berlin;#ff0000
-11;5;Dr. Klaus Lederer;THE LEFT;Berlin;#ff00ff
-12;5;Ramona Pop;ALLIANCE 90 / THE GREENS;Berlin;#66ff00
-10;6;Dilek Kalayci;SPD;Berlin;#ff0000
-11;6;Dr. Dietmar Woidke;SPD;Brandenburg;#ff0000
+11;1;Edith Sitzmann;ALLIANCE 90 / THE GREENS;Baden-Wuerttemberg;#66ff00
+12;1;Winfried Hermann;ALLIANCE 90 / THE GREENS;Baden-Wuerttemberg;#66ff00
+10;2;Ramona Pop;ALLIANCE 90 / THE GREENS;Berlin;#66ff00
+11;2;Ursula Nonnemacher;ALLIANCE 90 / THE GREENS;Brandenburg;#66ff00
+12;2;Dr. Maike Schaefer;ALLIANCE 90 / THE GREENS;Free Hanseatic City of Bremen;#66ff00
+10;3;Katharina Fegebank;ALLIANCE 90 / THE GREENS;Free and Hanseatic City of Hamburg;#66ff00
+11;3;Tarek Al-Wazir;ALLIANCE 90 / THE GREENS;Hesse;#66ff00
+12;3;Priska Hinz;ALLIANCE 90 / THE GREENS;Hesse;#66ff00
+10;4;Anne Spiegel;ALLIANCE 90 / THE GREENS;Rhineland-Palatinate;#66ff00
+11;4;Wolfram Günther;ALLIANCE 90 / THE GREENS;Free State of Saxony;#66ff00
+12;4;Prof. Dr. Claudia Dalbert;ALLIANCE 90 / THE GREENS;Saxony-Anhalt;#66ff00
+10;5;Monika Heinold;ALLIANCE 90 / THE GREENS;Schleswig-Holstein;#66ff00
+11;5;Anja Siegesmund;ALLIANCE 90 / THE GREENS;Free State of Thuringia;#66ff00
+12;5;Thomas Strobl;CDU;Baden-Wuerttemberg;#3a4139
+10;6;Dr. Nicole Hoffmeister-Kraut;CDU;Baden-Wuerttemberg;#3a4139
+11;6;Guido Wolf;CDU;Baden-Wuerttemberg;#3a4139
 12;6;Michael Stübgen;CDU;Brandenburg;#3a4139
-10;7;Ursula Nonnemacher;ALLIANCE 90 / THE GREENS;Brandenburg;#66ff00
-11;7;Katrin Lange;SPD;Brandenburg;#ff0000
-12;7;Dr. Andreas Bovenschulte;SPD;Free Hanseatic City of Bremen;#ff0000
-10;8;Dr. Maike Schaefer;ALLIANCE 90 / THE GREENS;Free Hanseatic City of Bremen;#66ff00
-11;8;Dr. Olaf Joachim;SPD;Free Hanseatic City of Bremen;#ff0000
-12;8;Dr. Peter Tschentscher;SPD;Free and Hanseatic City of Hamburg;#ff0000
-10;9;Katharina Fegebank;ALLIANCE 90 / THE GREENS;Free and Hanseatic City of Hamburg;#66ff00
-11;9;Dr. Andreas Dressel;SPD;Free and Hanseatic City of Hamburg;#ff0000
-12;9;Volker Bouffier;CDU;Hesse;#3a4139
-10;10;Lucia Puttrich;CDU;Hesse;#3a4139
-11;10;Tarek Al-Wazir;ALLIANCE 90 / THE GREENS;Hesse;#66ff00
-12;10;Priska Hinz;ALLIANCE 90 / THE GREENS;Hesse;#66ff00
-10;11;Eva Kühne-Hörmann;CDU;Hesse;#3a4139
-11;11;Manuela Schwesig;SPD;Mecklenburg-Western Pomerania;#ff0000
-12;11;Harry Glawe;CDU;Mecklenburg-Western Pomerania;#3a4139
-10;12;Bettina Martin;SPD;Mecklenburg-Western Pomerania;#ff0000
-11;12;Stephan Weil;SPD;Lower Saxony;#ff0000
-12;12;Dr. Bernd Althusmann;CDU;Lower Saxony;#3a4139
-10;13;Birgit Honé;SPD;Lower Saxony;#ff0000
-11;13;Olaf Lies;SPD;Lower Saxony;#ff0000
-12;13;Barbara Havliza;CDU;Lower Saxony;#3a4139
-10;14;Reinhold Hilbers;CDU;Lower Saxony;#3a4139
-11;14;Armin Laschet;CDU;North Rhine-Westphalia;#3a4139
+10;7;Volker Bouffier;CDU;Hesse;#3a4139
+11;7;Lucia Puttrich;CDU;Hesse;#3a4139
+12;7;Eva Kühne-Hörmann;CDU;Hesse;#3a4139
+10;8;Harry Glawe;CDU;Mecklenburg-Western Pomerania;#3a4139
+11;8;Dr. Bernd Althusmann;CDU;Lower Saxony;#3a4139
+12;8;Barbara Havliza;CDU;Lower Saxony;#3a4139
+10;9;Reinhold Hilbers;CDU;Lower Saxony;#3a4139
+11;9;Armin Laschet;CDU;North Rhine-Westphalia;#3a4139
+12;9;Lutz Lienenkämper;CDU;North Rhine-Westphalia;#3a4139
+10;10;Herbert Reul;CDU;North Rhine-Westphalia;#3a4139
+11;10;Dr. Stephan Holthoff porter;CDU;North Rhine-Westphalia;#3a4139
+12;10;Tobias Hans;CDU;Saarland;#3a4139
+10;11;Henrik Eitel;CDU;Saarland;#3a4139
+11;11;Michael Kretschmer;CDU;Free State of Saxony;#3a4139
+12;11;Oliver Schenk;CDU;Free State of Saxony;#3a4139
+10;12;Dr. Reiner Haseloff;CDU;Saxony-Anhalt;#3a4139
+11;12;Rainer Robra;CDU;Saxony-Anhalt;#3a4139
+12;12;Daniel Günther;CDU;Schleswig-Holstein;#3a4139
+10;13;Dr. Sabine Sütterlin-Waack;CDU;Schleswig-Holstein;#3a4139
+11;13;Dr. Markus Söder;CSU;Free State of Bavaria;#3a4139
+12;13;Dr. Florian Herrmann;CSU;Free State of Bavaria;#3a4139
+10;14;Joachim Herrmann;CSU;Free State of Bavaria;#3a4139
+11;14;Georg Eisenreich;CSU;Free State of Bavaria;#3a4139
 12;14;Dr. Joachim Stamp;FDP;North Rhine-Westphalia;#ffff00
-10;15;Lutz Lienenkämper;CDU;North Rhine-Westphalia;#3a4139
-11;15;Herbert Reul;CDU;North Rhine-Westphalia;#3a4139
-12;15;Prof. Dr. Andreas Pinkwart;FDP;North Rhine-Westphalia;#ffff00
-10;16;Dr. Stephan Holthoff porter;CDU;North Rhine-Westphalia;#3a4139
-11;16;Malu Dreyer;SPD;Rhineland-Palatinate;#ff0000
-12;16;Dr. Volker Wissing;FDP;Rhineland-Palatinate;#ffff00
-10;17;Doris Maria ancestors;SPD;Rhineland-Palatinate;#ff0000
-11;17;Anne Spiegel;ALLIANCE 90 / THE GREENS;Rhineland-Palatinate;#66ff00
-12;17;Tobias Hans;CDU;Saarland;#3a4139
-10;18;Anke Rehlinger;SPD;Saarland;#ff0000
-11;18;Henrik Eitel;CDU;Saarland;#3a4139
-12;18;Michael Kretschmer;CDU;Free State of Saxony;#3a4139
-10;19;Wolfram Günther;ALLIANCE 90 / THE GREENS;Free State of Saxony;#66ff00
-11;19;Martin Dulig;SPD;Free State of Saxony;#ff0000
-12;19;Oliver Schenk;CDU;Free State of Saxony;#3a4139
-10;20;Dr. Reiner Haseloff;CDU;Saxony-Anhalt;#3a4139
-11;20;Prof. Dr. Armin Willingmann;SPD;Saxony-Anhalt;#ff0000
-12;20;Prof. Dr. Claudia Dalbert;ALLIANCE 90 / THE GREENS;Saxony-Anhalt;#66ff00
-10;21;Rainer Robra;CDU;Saxony-Anhalt;#3a4139
-11;21;Daniel Günther;CDU;Schleswig-Holstein;#3a4139
-12;21;Monika Heinold;ALLIANCE 90 / THE GREENS;Schleswig-Holstein;#66ff00
-10;22;Dr. Sabine Sütterlin-Waack;CDU;Schleswig-Holstein;#3a4139
-11;22;Dr. Bernd Buchholz;FDP;Schleswig-Holstein;#ffff00
-12;22;Bodo Ramelow;THE LEFT;Free State of Thuringia;#ff00ff
-10;23;Wolfgang Tiefensee;SPD;Free State of Thuringia;#ff0000
-11;23;Anja Siegesmund;ALLIANCE 90 / THE GREENS;Free State of Thuringia;#66ff00
+10;15;Prof. Dr. Andreas Pinkwart;FDP;North Rhine-Westphalia;#ffff00
+11;15;Dr. Volker Wissing;FDP;Rhineland-Palatinate;#ffff00
+12;15;Dr. Bernd Buchholz;FDP;Schleswig-Holstein;#ffff00
+10;16;Hubert Aiwanger;FREE VOTERS;Free State of Bavaria;#9c9c9c
+11;16;Thorsten Glauber;FREE VOTERS;Free State of Bavaria;#9c9c9c
+12;16;Michael Müller;SPD;Berlin;#ff0000
+10;17;Dilek Kalayci;SPD;Berlin;#ff0000
+11;17;Dr. Dietmar Woidke;SPD;Brandenburg;#ff0000
+12;17;Katrin Lange;SPD;Brandenburg;#ff0000
+10;18;Dr. Andreas Bovenschulte;SPD;Free Hanseatic City of Bremen;#ff0000
+11;18;Dr. Olaf Joachim;SPD;Free Hanseatic City of Bremen;#ff0000
+12;18;Dr. Peter Tschentscher;SPD;Free and Hanseatic City of Hamburg;#ff0000
+10;19;Dr. Andreas Dressel;SPD;Free and Hanseatic City of Hamburg;#ff0000
+11;19;Manuela Schwesig;SPD;Mecklenburg-Western Pomerania;#ff0000
+12;19;Bettina Martin;SPD;Mecklenburg-Western Pomerania;#ff0000
+10;20;Stephan Weil;SPD;Lower Saxony;#ff0000
+11;20;Birgit Honé;SPD;Lower Saxony;#ff0000
+12;20;Olaf Lies;SPD;Lower Saxony;#ff0000
+10;21;Malu Dreyer;SPD;Rhineland-Palatinate;#ff0000
+11;21;Doris Maria ancestors;SPD;Rhineland-Palatinate;#ff0000
+12;21;Anke Rehlinger;SPD;Saarland;#ff0000
+10;22;Martin Dulig;SPD;Free State of Saxony;#ff0000
+11;22;Prof. Dr. Armin Willingmann;SPD;Saxony-Anhalt;#ff0000
+12;22;Wolfgang Tiefensee;SPD;Free State of Thuringia;#ff0000
+10;23;Dr. Klaus Lederer;THE LEFT;Berlin;#ff00ff
+11;23;Bodo Ramelow;THE LEFT;Free State of Thuringia;#ff00ff
 12;23;Prof. Dr. Benjamin-Immanuel Hoff;THE LEFT;Free State of Thuringia;#ff00ff
