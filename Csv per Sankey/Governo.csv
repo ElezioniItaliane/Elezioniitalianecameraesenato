@@ -1,43 +1,43 @@
 ﻿Governo;Ministero;From;To;Partito;Value
-Conte-1;Presidenza del Consiglio dei Ministri-1;Noone;Giuseppe Conte;Indipendente;1
-;Ministero degli Affari Esteri e della Cooperazione Internazionale-1;Noone;Enzo Moavero Milanesi;Indipendente;1
-;Ministero dell’Interno-1;Noone;Matteo Salvini;Lega;1
-;Ministero della Giustizia-1;Noone;Alfonso Bonafede;M5S;1
-;Ministero della Difesa-1;Noone;Elisabetta Trenta;M5S;1
-;Ministero dell’Economia e delle Finanze-1;Noone;Giovanni Tria;Indipendente;1
-;Ministero dello Sviluppo Economico-1;Noone;Luigi Di Maio;M5S;1
-;Ministero dell'Istruzione, dell'Università e della Ricerca-1;Noone;Marco Bussetti;Indipendente (Area lega);1
-;Ministero del Lavoro e delle Politiche sociali-1;Noone;Luigi Di Maio;M5S;1
-;Ministero delle Politiche Agricole, Alimentari e Forestali-1;Noone;Gian Marco Centinaio;Lega;1
-;Ministero dell’Ambiente e Tutela del Territorio e del Mare-1;Noone;Sergio Costa;Indipendente (Area M5S);1
-;Ministero delle Infrastrutture e dei Trasporti-1;Noone;Danilo Toninelli;M5S;1
-;Ministero della Salute-1;Noone;Giulia Grillo;M5S;1
-;Ministero dei Beni e delle Attività Culturali e del Turismo-1;Noone;Alberto Bonisoli;M5S;1
-Conte-2;Presidenza del Consiglio dei Ministri-2;Giuseppe Conte;Giuseppe Conte;Indipendente (Area M5S);1
-;Ministero degli Affari Esteri e della Cooperazione Internazionale-2;Enzo Moavero Milanesi;Luigi Di Maio;M5S;1
-;Ministero dell’Interno-2;Matteo Salvini;Luciana Lamorgese;Indipendente;1
-;Ministero della Giustizia-2;Alfonso Bonafede;Alfonso Bonafede;M5S;1
-;Ministero della Difesa-2;Elisabetta Trenta;Lorenzo Guerini;Partito Democratico;1
-;Ministero dell’Economia e delle Finanze-2;Giovanni Tria;Roberto Gualtieri;Partito Democratico;1
-;Ministero dello Sviluppo Economico-2;Luigi Di Maio;Stefano Patuanelli;M5S;1
-;Ministero dell'Istruzione, dell'Università e della Ricerca-2;Marco Bussetti;Lucia Azzolina;M5S;1
-;Ministero del Lavoro e delle Politiche sociali-2;Luigi Di Maio;Nunzia Catalfo;M5S;1
-;Ministero delle Politiche Agricole, Alimentari e Forestali-2;Gian Marco Centinaio;Teresa Bellanova;Italia Viva;1
-;Ministero dell’Ambiente e Tutela del Territorio e del Mare-2;Sergio Costa;Sergio Costa;Indipendente (Area M5S);1
-;Ministero delle Infrastrutture e dei Trasporti-2;Danilo Toninelli;Paola De Micheli;Partito Democratico;1
-;Ministero della Salute-2;Giulia Grillo;Roberto Speranza;Partito Democratico;1
-;Ministero dei Beni e delle Attività Culturali e del Turismo-2;Alberto Bonisoli;Dario Franceschini;Partito Democratico;1
-Draghi;Presidenza del Consiglio dei Ministri-3;Giuseppe Conte;Draghi;Indipendente;1
-;Ministero degli Affari Esteri e della Cooperazione Internazionale-3;Luigi Di Maio;Draghi;Indipendente;1
-;Ministero dell’Interno-3;Luciana Lamorgese;Draghi;Indipendente;1
-;Ministero della Giustizia-3;Alfonso Bonafede;Draghi;Indipendente;1
-;Ministero della Difesa-3;Lorenzo Guerini;Draghi;Indipendente;1
-;Ministero dell’Economia e delle Finanze-3;Roberto Gualtieri;Draghi;Indipendente;1
-;Ministero dello Sviluppo Economico-3;Stefano Patuanelli;Draghi;Indipendente;1
-;Ministero dell'Istruzione, dell'Università e della Ricerca-3;Lucia Azzolina;Draghi;Indipendente;1
-;Ministero del Lavoro e delle Politiche sociali-3;Nunzia Catalfo;Draghi;Indipendente;1
-;Ministero delle Politiche Agricole, Alimentari e Forestali-3;Teresa Bellanova;Draghi;Indipendente;1
-;Ministero dell’Ambiente e Tutela del Territorio e del Mare-3;Sergio Costa;Draghi;Indipendente;1
-;Ministero delle Infrastrutture e dei Trasporti-3;Paola De Micheli;Draghi;Indipendente;1
-;Ministero della Salute-3;Roberto Speranza;Draghi;Indipendente;1
-;Ministero dei Beni e delle Attività Culturali e del Turismo-3;Dario Franceschini;Draghi;Indipendente;1
+Conte-1;Presidenza del Consiglio dei Ministri-1;Noone;Giuseppe Conte (1);Indipendente;1
+Conte-1;Ministero degli Affari Esteri e della Cooperazione Internazionale-1;Noone;Enzo Moavero Milanesi;Indipendente;1
+Conte-1;Ministero dell’Interno-1;Noone;Matteo Salvini;Lega;1
+Conte-1;Ministero della Giustizia-1;Noone;Alfonso Bonafede (1);M5S;1
+Conte-1;Ministero della Difesa-1;Noone;Elisabetta Trenta;M5S;1
+Conte-1;Ministero dell’Economia e delle Finanze-1;Noone;Giovanni Tria;Indipendente;1
+Conte-1;Ministero dello Sviluppo Economico-1;Noone;Luigi Di Maio (1);M5S;1
+Conte-1;Ministero dell'Istruzione, dell'Università e della Ricerca-1;Noone;Marco Bussetti;Indipendente (Area lega);1
+Conte-1;Ministero del Lavoro e delle Politiche sociali-1;Noone;Luigi Di Maio (1);M5S;1
+Conte-1;Ministero delle Politiche Agricole, Alimentari e Forestali-1;Noone;Gian Marco Centinaio;Lega;1
+Conte-1;Ministero dell’Ambiente e Tutela del Territorio e del Mare-1;Noone;Sergio Costa (1);Indipendente (Area M5S);1
+Conte-1;Ministero delle Infrastrutture e dei Trasporti-1;Noone;Danilo Toninelli;M5S;1
+Conte-1;Ministero della Salute-1;Noone;Giulia Grillo;M5S;1
+Conte-1;Ministero dei Beni e delle Attività Culturali e del Turismo-1;Noone;Alberto Bonisoli;M5S;1
+Conte-2;Presidenza del Consiglio dei Ministri-2;Giuseppe Conte (1);Giuseppe Conte (2);Indipendente (Area M5S);1
+Conte-2;Ministero degli Affari Esteri e della Cooperazione Internazionale-2;Enzo Moavero Milanesi;Luigi Di Maio (2);M5S;1
+Conte-2;Ministero dell’Interno-2;Matteo Salvini;Luciana Lamorgese;Indipendente;1
+Conte-2;Ministero della Giustizia-2;Alfonso Bonafede (1);Alfonso Bonafede (2);M5S;1
+Conte-2;Ministero della Difesa-2;Elisabetta Trenta;Lorenzo Guerini;Partito Democratico;1
+Conte-2;Ministero dell’Economia e delle Finanze-2;Giovanni Tria;Roberto Gualtieri;Partito Democratico;1
+Conte-2;Ministero dello Sviluppo Economico-2;Luigi Di Maio (1);Stefano Patuanelli;M5S;1
+Conte-2;Ministero dell'Istruzione, dell'Università e della Ricerca-2;Marco Bussetti;Lucia Azzolina;M5S;1
+Conte-2;Ministero del Lavoro e delle Politiche sociali-2;Luigi Di Maio (1);Nunzia Catalfo;M5S;1
+Conte-2;Ministero delle Politiche Agricole, Alimentari e Forestali-2;Gian Marco Centinaio;Teresa Bellanova;Italia Viva;1
+Conte-2;Ministero dell’Ambiente e Tutela del Territorio e del Mare-2;Sergio Costa (1);Sergio Costa (2);Indipendente (Area M5S);1
+Conte-2;Ministero delle Infrastrutture e dei Trasporti-2;Danilo Toninelli;Paola De Micheli;Partito Democratico;1
+Conte-2;Ministero della Salute-2;Giulia Grillo;Roberto Speranza;Partito Democratico;1
+Conte-2;Ministero dei Beni e delle Attività Culturali e del Turismo-2;Alberto Bonisoli;Dario Franceschini;Partito Democratico;1
+Draghi;Presidenza del Consiglio dei Ministri-3;Giuseppe Conte (2);Draghi;Indipendente;1
+Draghi;Ministero degli Affari Esteri e della Cooperazione Internazionale-3;Luigi Di Maio (2);Draghi;Indipendente;1
+Draghi;Ministero dell’Interno-3;Luciana Lamorgese;Draghi;Indipendente;1
+Draghi;Ministero della Giustizia-3;Alfonso Bonafede (2);Draghi;Indipendente;1
+Draghi;Ministero della Difesa-3;Lorenzo Guerini;Draghi;Indipendente;1
+Draghi;Ministero dell’Economia e delle Finanze-3;Roberto Gualtieri;Draghi;Indipendente;1
+Draghi;Ministero dello Sviluppo Economico-3;Stefano Patuanelli;Draghi;Indipendente;1
+Draghi;Ministero dell'Istruzione, dell'Università e della Ricerca-3;Lucia Azzolina;Draghi;Indipendente;1
+Draghi;Ministero del Lavoro e delle Politiche sociali-3;Nunzia Catalfo;Draghi;Indipendente;1
+Draghi;Ministero delle Politiche Agricole, Alimentari e Forestali-3;Teresa Bellanova;Draghi;Indipendente;1
+Draghi;Ministero dell’Ambiente e Tutela del Territorio e del Mare-3;Sergio Costa (2);Draghi;Indipendente;1
+Draghi;Ministero delle Infrastrutture e dei Trasporti-3;Paola De Micheli;Draghi;Indipendente;1
+Draghi;Ministero della Salute-3;Roberto Speranza;Draghi;Indipendente;1
+Draghi;Ministero dei Beni e delle Attività Culturali e del Turismo-3;Dario Franceschini;Draghi;Indipendente;1
